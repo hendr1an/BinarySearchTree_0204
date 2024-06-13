@@ -40,7 +40,7 @@ public:
         Node* parent = nullptr;
         Node* currentNode = nullptr;
         search(element, parent, currentNode);
-        |
+        
         if (parent == nullptr)
     } 
 };
