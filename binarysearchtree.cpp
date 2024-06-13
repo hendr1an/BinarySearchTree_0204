@@ -165,9 +165,8 @@ int main()
         }
         case '5':
         {
-            return;
+            return 0;
         }
-  
   
   
         }
